@@ -9,12 +9,7 @@ nav {
         width:45%;  */
     }
     
-    #logo{
-        /* float:left;
-        margin-left:5%;
-        text-align:left;
-        width:45%; */
-    }
+    
     
     #name {
         background-color: #4aaaa5;
@@ -56,7 +51,7 @@ nav {
         font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
         color: #777777;
         display: inline;
-        margin-top: 7px;
+       
     }
     
     .container {
